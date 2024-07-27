@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Html, Css, JavaScript.<br>🤝 I’m looking for help with JavaScript.<br>🌱 I’m currently learning JavaScript.<br>💬 Ask me about Java, Html, Css, BootStrap.
+🔭 I’m currently working on Html, Css, JavaScript.<br>🤝 I’m looking for help with JavaScript.<br>🌱 I’m currently learning JavaScript.
 
 
 ## 🌐 Socials:
