@@ -1,7 +1,6 @@
 
 [![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)]
 <h1 align="center">Hi 👋, I'm Akib Hosen</h1>
-//
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
@@ -30,4 +29,4 @@
 [![](https://visitcount.itsvg.in/api?id=Akib-Hosen&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-//
+
